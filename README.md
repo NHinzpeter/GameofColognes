@@ -10,7 +10,7 @@ Historischer Hintergrund/Recherche<br>
 <br>
 <h2>Technische Umsetzung</h2>
 Als Entwicklungsumgebung wurde Unity verwendet. Für die Einbindung der Karte wurde zusätzlich die Erweiterung Mapbox und für die Objekterkennung Vuforia verwendet. Alles weitere wurde eigenhändig implementiert.<br>
-Viel Arbeit ist hierbei in den Kartenmodus geflosen: Sowohl die Steuerung der Karte via Toucheingabe, als auch die Anzeige des Standorts des Spielers, sowie die farbigen, aklickbaren Bereiche auf der Karte wurden manuell implementiert.<br>
+Viel Arbeit ist hierbei in den Kartenmodus geflossen: Sowohl die Steuerung der Karte via Toucheingabe, als auch die Anzeige des Standorts des Spielers, sowie die farbigen, anklickbaren Bereiche auf der Karte wurden manuell implementiert.<br>
 Insgesamt wurde bei der Implementierung viel Wert auf eine möglichst flexible Programmierung gelegt. So wurden keine Inhalte hardgecodet, der Inhalt der App (wie Texte, Bilder oder ganze Stationen) ist entsprechend in Unity schnell und einfach auszutauschen. Dies ermöglichte einen flexiblen Entwicklungsprozess.<br>
 Auch das Spielerlebnis ist flexibel gehalten: Es existiert zwar grundsätzlich eine festgelegte Chronologie, die Spielenden müssen sich jedoch nicht zwangsläufig an diese halten. Um dennoch einen Überblick zu bewahren und Texte immer wieder aufrufen zu können, wurde ein "Chronologie-Menü" entwickelt, welches die Stationen in ihrer korrekten Reihenfolge darstellt.<br>
 Zeitlich sind die Spielenden ebenfalls flexibel - die App speichert den Spielstand automatisch und ermöglicht so ein zeitversetztes Wiederaufnehmen der Spielsitzung.<br>
