@@ -8,4 +8,6 @@ Historischer Hintergrund/Recherche<br>
 Design<br>
 <br>
 <br>
-Technische Umsetzung
+<h2>Technische Umsetzung</h2><br>
+Als Entwicklungsumgebung wurde Unity verwendet. Für die Einbindung der Karte wurde zusätzlich die Erweiterung Mapbox und für die Objekterkennung Vuforia verwendet. Alles weitere wurde eigenhändig implementiert.<br>
+
