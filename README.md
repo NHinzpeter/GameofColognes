@@ -15,3 +15,6 @@ Insgesamt wurde bei der Implementierung viel Wert auf eine möglichst flexible P
 Auch das Spielerlebnis ist flexibel gehalten: Es existiert zwar grundsätzlich eine festgelegte Chronologie, die Spielenden müssen sich jedoch nicht zwangsläufig an diese halten. Um dennoch einen Überblick zu bewahren und Texte immer wieder aufrufen zu können, wurde ein "Chronologie-Menü" entwickelt, welches die Stationen in ihrer korrekten Reihenfolge darstellt.<br>
 Um den Spielenden ein belohnendes Gefühl zu vermitteln, wenn eine Station gefunden wurde, wurde eine Animation und eine Vibration eingefügt.<br>
 Da die Ladezeit beim Öffnen der App relativ lang ist, wurde ein Loadingscreen eingebaut, der den aktuellen Ladefortschritt in einem Balken anzeigt.<br>
+Innerhalb des Spiels finden die Spielenden nützliche Hinweise und Hilfestellungen im "Hilfe"-Menü.<br>
+Im Kamera-Modus kann außerdem der Handy-interne Blitz eingeschaltet werden, um die gesuchten Objekte auch bei schlechten Lichtverhältnissen scannen zu können.<br>
+Um die Steuerung so intuitiv wie möglich zu gestalten, wurde zusätzlich der native "Zurück"-Button der Android-Geräte mit Befehlen belegt.<br>
