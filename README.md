@@ -24,7 +24,7 @@ Um die Steuerung so intuitiv wie möglich zu gestalten, wurde zusätzlich der na
 Known issue: Auf leistungsschwachen Endgeräten kann es passieren, dass die App beim erstmaligen Öffnen einfriert. Verantwortlich dafür ist Vuforia, sodass wir hieran leider nichts ändern konnten. Sollte der Bug auftreten, muss die App einfach neu gestartet werden, der Einleitungstext kann dann erneut im Chronologie-Menü aufgerufen werden.<br>
 <br>
 <h2>Screenshots</h2><br>
-<img src="./Screenshots/Screenshot_20190818-214953.png" height=500px><br>
-<img src="./Screenshots/Screenshot_20190818-214924.png" height=500px><br>
-<img src="./Screenshots/Screenshot_20190818-215443.png" height=500px><br>
-<img src="./Screenshots/Screenshot_20190818-214738.png" height=500px><br>
+<img src="./Screenshots/Screenshot_20190818-214953.png" height=500px>
+<img src="./Screenshots/Screenshot_20190818-214924.png" height=500px>
+<img src="./Screenshots/Screenshot_20190818-215443.png" height=500px>
+<img src="./Screenshots/Screenshot_20190818-214738.png" height=500px>
