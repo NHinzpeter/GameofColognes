@@ -1,5 +1,5 @@
 # GameofColognes
-In "Game of Colognes" lernen die Spielenden die wichtigsten Schauorte der "Schlacht an der Ulrepforte" kennen und können so ganz neue Ecken von Köln entdecken.<br>
+In "Game of Colognes" lernen die Spielenden die wichtigsten Schauorte der "Schlacht an der Ulrepforte" kennen und können so ganz neue Ecken von Köln entdecken. Mithilfe von AR müssen die Spielenden hierbei innerhalb von Köln nach Objekten suchen und diese einscannen, um die Geschichte Stück für Stück zu erfahren.<br>
 <br>
 <a href="https://drive.google.com/file/d/1DLZmCD4LhlJUlWQtBIJJ1tNweA9AoxTw/view?usp=sharing">Download der finalen Version</a><br>
 <br>
