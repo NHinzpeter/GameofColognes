@@ -1,5 +1,6 @@
 # GameofColognes
-Historische Stadtführung durch Köln in AR<br>
+In "Game of Colognes" lernen die Spielenden die wichtigsten Schauorte der "Schlacht an der Ulrepforte" kennen und können so ganz neue Ecken von Köln entdecken.<br>
+Link zur finalen Version:<br>
 <br>
 <h2>Dokumentation</h2>
 Historischer Hintergrund/Recherche<br>
