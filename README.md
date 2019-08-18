@@ -5,8 +5,8 @@ In "Game of Colognes" lernen die Spielenden die wichtigsten Schauorte der "Schla
 <br>
 <a href="https://drive.google.com/file/d/1FftePPhGTd4N3PQBo6uHzxF8cye0W1oO/view?usp=sharing">Download Unity-Projektordner</a><br>
 <br>
-<h2>Dokumentation</h2>
-Historischer Hintergrund/Recherche<br>
+<h2>Historischer Hintergrund/Recherche</h2>
+<br>
 <br>
 <br>
 <h2>Design</h2>
