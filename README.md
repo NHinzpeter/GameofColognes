@@ -1,5 +1,6 @@
 # GameofColognes
 In "Game of Colognes" lernen die Spielenden die wichtigsten Schauorte der "Schlacht an der Ulrepforte" kennen und können so ganz neue Ecken von Köln entdecken.<br>
+<br>
 Link zur finalen Version:<br>
 <br>
 <h2>Dokumentation</h2>
@@ -20,4 +21,7 @@ Da die Ladezeit beim Öffnen der App relativ lang ist, wurde ein Loadingscreen e
 Innerhalb des Spiels finden die Spielenden nützliche Hinweise und Hilfestellungen im "Hilfe"-Menü.<br>
 Im Kamera-Modus kann außerdem der Handy-interne Blitz eingeschaltet werden, um die gesuchten Objekte auch bei schlechten Lichtverhältnissen scannen zu können.<br>
 Um die Steuerung so intuitiv wie möglich zu gestalten, wurde zusätzlich der native "Zurück"-Button der Android-Geräte mit Befehlen belegt.<br>
-Known issue: Auf leistungsschwachen Endgeräten kann es passieren, dass die App beim erstmaligen Öffnen einfriert. Verantwortlich dafür ist Vuforia, sodass wir hieran leider nichts ändern konnten. Sollte der Bug auftreten, muss die App einfach neu gestartet werden, der Einleitungstext kann dann erneut im Chronologie-Menü aufgerufen werden.
+Known issue: Auf leistungsschwachen Endgeräten kann es passieren, dass die App beim erstmaligen Öffnen einfriert. Verantwortlich dafür ist Vuforia, sodass wir hieran leider nichts ändern konnten. Sollte der Bug auftreten, muss die App einfach neu gestartet werden, der Einleitungstext kann dann erneut im Chronologie-Menü aufgerufen werden.<br>
+<br>
+<h2>Screenshots</h2><br>
+
