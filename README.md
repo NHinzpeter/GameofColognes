@@ -7,7 +7,11 @@ In "Game of Colognes" lernen die Spielenden die wichtigsten Schauorte der "Schla
 <br>
 <h2>Historischer Hintergrund/Recherche</h2>
 <br>
-<br>
+Für die Informationen rund um die Schlacht wurden zunächst Kölner Historiker kontaktiert. Diese verwiesen insbesondere auf die Koelhoffsche Chronik von 1499, welche in digitaler Form in der Stadtbibliothek vorlag. 
+In dieser, in einer Bastarda-Schrift verfassten, Chronik handeln insgesamt etwa 6 Kapitel von den Ereignissen rund um die Schlacht.
+Neben den eigentlichen Ereignissen, mussten vor allem die handelnden Personen recherchiert werden, da diese in der Chronik häufig nicht eindeutig benannt waren. 
+Zu diesem Zweck wurde in erster Linie das Archiv des Projektes "Deutsche Biographie" von der Historischen Kommission der Bayerischen Akademie der Wissenschaften verwendet.
+Neben der Personenrecherche, war die größte Schwierigkeit die Recherche der tatsächlichen Standorte der verschiedenen Stationen. An dieser Stelle wurde vor allem auf historisches Kartenmaterial zurückgegriffen, etwa auf den Mercatorplan von 1570.
 <br>
 <h2>Design</h2>
 <br>
