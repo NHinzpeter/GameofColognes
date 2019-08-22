@@ -7,18 +7,20 @@ In "Game of Colognes" lernen die Spielenden die wichtigsten Schauorte der "Schla
 <br>
 <h2>Historischer Hintergrund/Recherche</h2>
 <br>
-Für die Informationen rund um die Schlacht wurden zunächst Kölner Historiker kontaktiert. Diese verwiesen insbesondere auf die Koelhoffsche Chronik von 1499, welche in digitaler Form in der Stadtbibliothek vorlag. 
-In dieser, in einer Bastarda-Schrift verfassten, Chronik handeln insgesamt etwa 6 Kapitel von den Ereignissen rund um die Schlacht.
-Neben den eigentlichen Ereignissen, mussten vor allem die handelnden Personen recherchiert werden, da diese in der Chronik häufig nicht eindeutig benannt waren. 
-Zu diesem Zweck wurde in erster Linie das Archiv des Projektes "Deutsche Biographie" von der Historischen Kommission der Bayerischen Akademie der Wissenschaften verwendet.
-Neben der Personenrecherche, war die größte Schwierigkeit die Recherche der tatsächlichen Standorte der verschiedenen Stationen. An dieser Stelle wurde vor allem auf historisches Kartenmaterial zurückgegriffen, etwa auf den Mercatorplan von 1570.
+Für die Informationen rund um die Schlacht wurden zunächst Kölner Historiker kontaktiert. Diese verwiesen insbesondere auf die Koelhoffsche Chronik von 1499, welche in digitaler Form in der Stadtbibliothek vorlag. <br>
+In dieser, in einer Bastarda-Schrift verfassten, Chronik handeln insgesamt etwa 6 Kapitel von den Ereignissen rund um die Schlacht.<br>
+Neben den eigentlichen Ereignissen, mussten vor allem die handelnden Personen recherchiert werden, da diese in der Chronik häufig nicht eindeutig benannt waren. <br>
+Zu diesem Zweck wurde in erster Linie das Archiv des Projektes "Deutsche Biographie" von der Historischen Kommission der Bayerischen Akademie der Wissenschaften verwendet.<br>
+Neben der Personenrecherche, war die größte Schwierigkeit die Recherche der tatsächlichen Standorte der verschiedenen Stationen. An dieser Stelle wurde vor allem auf historisches Kartenmaterial zurückgegriffen, etwa auf den Mercatorplan von 1570.<br>
+Da die Politik in Köln zur Zeit der Schlacht stets von Intrigen und Machtkämpfen zwischen verschiedenen Patrizier-Familien geprägt war, wurde der Name "Game of Colognes" in Anspielung an die HBO-Serie "Game of Thrones" gewählt.
 <br>
 <h2>Design</h2>
 <br>
-Das Design der App wurde größtenteils eigenhändig erarbeitet und entworfen. Hier wurde Wert daraufgelegt, dass die Gestaltung zu der Idee und dem Konzept der App passt. 
-Der Name der App „Game of Colognes“ ähnelt dem Namen der Serie „Game of Thrones“, weswegen sich auch beim Logoentwurf daran orientiert wurde. 
+Das Design der App wurde größtenteils eigenhändig erarbeitet und entworfen. Hier wurde Wert daraufgelegt, dass die Gestaltung zu der Idee und dem Konzept der App passt. <br>
+Der Name der App „Game of Colognes“ verweist auf die Serie „Game of Thrones“, weswegen sich auch beim Logoentwurf daran orientiert wurde. <br>
 Das Logo der App ist ein einfach gehaltener Schriftzug mit der „Game of Thrones“ Schriftart und einem grauen Hintergrund, passend zur Map, die in der App implementiert ist. Der Schriftzug erscheint unter anderem auf dem Loadingscreen. 
-Ebenfalls im Schriftzug enthalten ist das Appsymbol zusammen mit den vier Himmelsrichtungen. Das Appsymbol ist eine Mischung aus dem Buchstaben O und einen Kompass und wurde mittels Photoshop entworfen und schien passend für die Idee der App. Die Map ist eine costumized Karte von Mapbox, ebenfalls in Grau gehalten. Bei ihrer Gestaltung wurde darauf geachtet, dass sie möglichst in das Design der App passt.  Die Icons und die Schriftart, die in der App zu sehen sind, orientieren sich an den Material Design Richtlinien von Google.
+Ebenfalls im Schriftzug enthalten ist das Appsymbol zusammen mit den vier Himmelsrichtungen. Das Appsymbol ist eine Mischung aus dem Buchstaben "O" in der Game of Thrones Schriftart und einem Kompass und wurde mittels Photoshop entworfen und schien passend für die Idee der App. Die Map ist eine costumized Karte von Mapbox, ebenfalls in Grau gehalten. Bei ihrer Gestaltung wurde darauf geachtet, dass sie möglichst in das Design der App passt.  Die Icons und die Schriftart, die in der App zu sehen sind, orientieren sich an den Material Design Richtlinien von Google (material.io).<br>
+Die in der App enthaltenen Fotos der Standorte wurden selbst geschossen.
 <br>
 <h2>Technische Umsetzung</h2>
 Als Entwicklungsumgebung wurde Unity verwendet. Für die Einbindung der Karte wurde zusätzlich die Erweiterung Mapbox und für die Objekterkennung Vuforia verwendet. Alles weitere wurde eigenhändig implementiert.<br>
